@@ -1,0 +1,20 @@
+🚀 Day 17 of my AI & ML Internship at Veda Technology!
+
+📊 Task: Dataset Exploration
+
+Today I explored the Iris Dataset using Python and Pandas to understand its structure before moving toward machine learning.
+
+🔹 What I worked on:
+• Checked dataset shape and dimensions
+• Inspected column names and data types
+• Identified numerical and categorical columns
+• Used info() to check dataset structure and missing values
+• Used describe() for statistical analysis
+• Used head() and tail() to inspect records
+• Documented key observations from the dataset
+
+🛠️ Tools: Python | Pandas | Jupyter Notebook
+
+This task helped me understand why Exploratory Data Analysis (EDA) is an essential step before model building.
+
+#VedaTechnology #AI #MachineLearning #Python #Pandas #DataScience #EDA #Internship #Day17 #LearningJourney
